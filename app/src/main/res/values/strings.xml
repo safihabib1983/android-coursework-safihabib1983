@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Archelon</string>
+    <string name="org_statement">ARCHELON\n Τhe Sea Turtle Protection Society\n of Greece</string>
+    <string name="login_button">LOGIN</string>
+    <string name="register_button">REGISTER</string>
+    <string name="enter_name">Enter first name</string>
+    <string name="enter_email_ad">Enter your email address</string>
+    <string name="enter_username">Enter a username</string>
+    <string name="enter_password">Enter a password</string>
+    <string name="re_enter_password">Retype password</string>
+    <string name="save_and_login">Save and go to Login Screen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
